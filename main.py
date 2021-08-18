@@ -10,7 +10,7 @@ from discord.ext.commands import Bot
 from discord.ext import commands
 
 
-TOKEN = "ODc3Njc3MjYyMzU3NTQwOTY1.YR2GpQ.vz69tkBWWldjP3BLXLv5hUyFAg8"
+TOKEN = "ODc3Njc3MjYyMzU3NTQwOTY1.YR2GpQ.hTGkZKstlPzeO7K1LbS5wHrvNEA"
 chars = string.digits + string.ascii_letters +string.punctuation
 chars2 = string.ascii_lowercase + string.ascii_uppercase
 
